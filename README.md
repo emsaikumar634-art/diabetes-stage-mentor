@@ -14,3 +14,18 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the Oxlint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+🔗 Project Links
+
+🌐 Live Demo
+
+https://agent-6a9ce5f2244eff2bacdf--calm-lollipop-e1ce4c.netlify.app
+
+💻 GitHub Repository
+
+https://github.com/emsaikumar634-art/diabetes-stage-mentor
+
+📦 Source Code
+
+The complete source code, ".env" configuration, README, and project documentation are included in the submitted ZIP file:
+
+"Diabetes_Stage_Mentor_Source_Code.zip"
